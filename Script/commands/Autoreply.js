@@ -32,7 +32,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good night": "Sweet Dream babu… 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "yeasin": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ Md Yeasin Hasan ☜\nFacebook: https://www.facebook.com/mdyeasinhasan.n",
+    "AAowner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ Md Yeasin Hasan ☜\nFacebook: https://www.facebook.com/mdyeasinhasan.n",
     "admin": "He is Md Yeasin Hasan তাকে সবাই 愛ʟᴜғғʏシ︎ হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",
