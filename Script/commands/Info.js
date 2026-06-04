@@ -5,8 +5,8 @@ module.exports.config = {
  credits: "SHAHADAT SAHU",
  description: "Bot information command",
  commandCategory: "For users",
- hide: true,
- usages: "",
+ hide: false,
+ usages: "info",
  cooldowns: 5,
 };
 
